@@ -1,34 +1,3 @@
-<h2>Reindel Andrada</h2>
-
-<p>
-  Computer Science student at the Technological University of the Philippines – Manila.
-</p>
-
-<p>
-  Interested in software engineering, problem-solving, and building practical applications.
-</p>
-
-<h3>Selected Work</h3>
-
-<table>
-  <tr>
-    <td width="88" align="center" valign="middle">
-      <img
-        src="https://github.com/user-attachments/assets/f8b0cb0d-8d3f-4ebb-80e4-c0ae99e7c797"
-        width="64"
-        alt="Pawi"
-      />
-    </td>
-    <td valign="middle">
-      <strong>Pawi — Study Timer & Stats</strong><br/>
-      An Android application for focused study and tracking study sessions.<br/><br/>
-      <a href="https://github.com/Cyborg1644W/Pawi---Study-Timer-Stats">Source code</a>
-      &nbsp;·&nbsp;
-      <sub>Google Play coming soon</sub>
-    </td>
-  </tr>
-</table>
-
 <h3>Find Me Elsewhere</h3>
 
 <table>
